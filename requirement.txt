@@ -1,0 +1,7 @@
+langchain 
+langchain-google-genai 
+"langchain[docarray]" 
+faiss-cpu 
+langchain-community
+azure-ai-formrecognizer 
+pandas 
